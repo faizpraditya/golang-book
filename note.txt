@@ -1,0 +1,15 @@
+{
+    "id":69,
+    "title":"Uhuy",
+    "desctiption":"mantap cuy",
+    "price":150000,
+    "stock":10,
+    "purchase_amount":1
+}
+
+port sesuai absen
+API_HOST = ":8021"
+wmb_faiz
+
+total meja makan ada 30 meja
+ada yang di hardcore, ada yang buat dipost
